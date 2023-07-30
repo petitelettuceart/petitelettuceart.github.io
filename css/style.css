@@ -69,7 +69,7 @@ nav ul li a:hover {
 }
 
 #contact {
-    background-color: pink;
+    background-color: #FFB6C1;
 }
 
 /* Color the links in pink */
@@ -93,4 +93,13 @@ a:hover {
 .headerimage {
 height:545px;	
 }
-	
+
+.description {
+	font-family: 'Outfit', sans-serif;
+	font-size: 1.5em;
+	margin-top: 4em;
+}
+
+.face {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
